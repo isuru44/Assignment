@@ -8,7 +8,7 @@ public class Parrot extends Bird implements Flyable {
 
     SoundHelper soundHelper;
 
-    private Parrot(){}
+    public Parrot(){}
 
     public Parrot(SoundHelper soundHelper) {
         this.soundHelper = soundHelper;

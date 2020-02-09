@@ -2,18 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b279ec-966c-45e4-b0c9-2a0953e76f09" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/core/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/core/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/util/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/util/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Clownfish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Clownfish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isuru/model/Shark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isuru/model/Shark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/isuru/core/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/isuru/core/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/core/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/core/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Clownfish.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Clownfish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Dolphin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Dolphin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Insect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Insect.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Parrot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isuru/model/Shark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isuru/model/Shark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/isuru/core/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/isuru/core/SolutionTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,20 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/core/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+            <state relative-caret-position="233">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,11 +51,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Parrot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Parrot.java">
+      <file leaf-file-name="Rooster.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Rooster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="68">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Clownfish.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Clownfish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bird.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/isuru/core/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="106" column="8" lean-forward="true" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,29 +109,8 @@
       <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chicken.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Chicken.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bird.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="13" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -91,8 +118,8 @@
       <file leaf-file-name="Mammal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Mammal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,14 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Insect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Insect.java">
+      <file leaf-file-name="Chicken.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Chicken.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -115,23 +139,8 @@
       <file leaf-file-name="Butterfly.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Butterfly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-              <folding>
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/util/Constant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+            <state relative-caret-position="95">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -169,25 +178,28 @@
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/util/SoundEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Shoutable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Cat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Parrot.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/isuru/core/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Walkable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Swimmable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Mammal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Fish.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Clownfish.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Shark.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Dolphin.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/FlyingInsect.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Insect.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/util/Constant.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Butterfly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Frog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Fish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Clownfish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Shark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Singable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isuru/core/AnimalCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isuru/core/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/isuru/core/SolutionTest.java" />
       </list>
     </option>
   </component>
@@ -331,6 +343,75 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isuru.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.isuru.core" />
+      <option name="MAIN_CLASS_NAME" value="com.isuru.core.SolutionTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SolutionTest.butterflyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isuru.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.isuru.core" />
+      <option name="MAIN_CLASS_NAME" value="com.isuru.core.SolutionTest" />
+      <option name="METHOD_NAME" value="butterflyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SolutionTest.flyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isuru.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.isuru.core" />
+      <option name="MAIN_CLASS_NAME" value="com.isuru.core.SolutionTest" />
+      <option name="METHOD_NAME" value="flyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="SolutionTest.singTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <extension name="coverage">
@@ -366,29 +447,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.isuru.core" />
       <option name="MAIN_CLASS_NAME" value="com.isuru.core.SolutionTest" />
-      <option name="METHOD_NAME" value="testBirdSing" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SolutionTest.testBirdSing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.asgn.a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.asgn.a" />
-      <option name="MAIN_CLASS_NAME" value="com.asgn.a.SolutionTest" />
       <option name="METHOD_NAME" value="testBirdSing" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -440,15 +498,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.SolutionTest.testBirdSing" />
       <item itemvalue="JUnit.SolutionTest.testBirdSing (1)" />
       <item itemvalue="JUnit.SolutionTest.singTest" />
+      <item itemvalue="JUnit.SolutionTest.flyTest" />
+      <item itemvalue="JUnit.SolutionTest.butterflyTest" />
+      <item itemvalue="JUnit.SolutionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.butterflyTest" />
+        <item itemvalue="JUnit.SolutionTest.flyTest" />
         <item itemvalue="JUnit.SolutionTest.singTest" />
         <item itemvalue="JUnit.SolutionTest.testBirdSing (1)" />
-        <item itemvalue="JUnit.SolutionTest.testBirdSing" />
       </list>
     </recent_temporary>
   </component>
@@ -466,32 +528,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_testBirdSing - 2020.02.08 at 10h 21m 33s.xml">
-      <configuration name="SolutionTest.testBirdSing" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_testBirdSing - 2020.02.08 at 10h 21m 52s.xml">
-      <configuration name="SolutionTest.testBirdSing" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_testBirdSing - 2020.02.08 at 11h 59m 24s.xml">
-      <configuration name="SolutionTest.testBirdSing" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_testBirdSing - 2020.02.08 at 14h 10m 56s.xml">
-      <configuration name="SolutionTest.testBirdSing" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_testBirdSing_(1) - 2020.02.08 at 14h 11m 25s.xml">
-      <configuration name="SolutionTest.testBirdSing (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_singTest - 2020.02.08 at 14h 39m 32s.xml">
-      <configuration name="SolutionTest.singTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_singTest - 2020.02.08 at 14h 41m 16s.xml">
-      <configuration name="SolutionTest.singTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest_singTest - 2020.02.08 at 19h 59m 53s.xml">
-      <configuration name="SolutionTest.singTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolutionTest_singTest - 2020.02.08 at 20h 04m 05s.xml">
       <configuration name="SolutionTest.singTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_flyTest - 2020.02.09 at 10h 33m 06s.xml">
+      <configuration name="SolutionTest.flyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_butterflyTest - 2020.02.09 at 10h 41m 36s.xml">
+      <configuration name="SolutionTest.butterflyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.09 at 10h 44m 48s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.09 at 10h 45m 27s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.09 at 10h 50m 20s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.09 at 10h 52m 33s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.09 at 10h 55m 20s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.09 at 10h 59m 02s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.09 at 10h 59m 11s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -500,14 +565,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49621785" weight="0.32761577" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49016643" weight="0.32761577" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50378215" side_tool="true" visible="true" weight="0.4562607" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5098336" side_tool="true" weight="0.3361921" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49621785" visible="true" weight="0.4562607" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49016643" visible="true" weight="0.36535162" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -526,32 +591,32 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4977307" visible="true" weight="0.25042883" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21558245" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39933994" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50226927" side_tool="true" weight="0.38250428" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.4977307" weight="0.32761577" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49016643" visible="true" weight="0.3361921" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5098336" side_tool="true" visible="true" weight="0.3361921" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49016643" weight="0.32761577" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -595,6 +660,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -605,34 +676,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/isuru/core/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Shoutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Flyable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -650,52 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Clownfish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Fish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Shark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Dolphin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -706,68 +707,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Rooster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Parrot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Chicken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="13" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Mammal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,23 +738,178 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Frog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Shoutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Shark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/behaviors/Singable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/core/AnimalCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Mammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Clownfish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Rooster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Chicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/model/Butterfly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        <state relative-caret-position="95">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/isuru/core/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="8" lean-forward="true" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
           <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isuru/core/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        <state relative-caret-position="233">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

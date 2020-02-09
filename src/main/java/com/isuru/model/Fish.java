@@ -8,7 +8,7 @@ public class Fish extends Animal implements Swimmable {
     private String bodySize;
     private String bodyColor;
 
-    Fish(){}
+    public Fish(){}
 
     Fish(String bodySize,String bodyColor){
         this.bodySize = bodySize;

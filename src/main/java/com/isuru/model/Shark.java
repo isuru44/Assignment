@@ -4,7 +4,9 @@ import com.isuru.util.Constant;
 
 public class Shark extends Fish{
 
-    Shark(String bodySize,String bodyColor){
+    public Shark(){}
+
+    public Shark(String bodySize,String bodyColor){
       super(bodySize,bodyColor);
     }
 

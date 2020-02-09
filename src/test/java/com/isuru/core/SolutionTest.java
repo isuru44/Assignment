@@ -1,10 +1,8 @@
 package com.isuru.core;
 
 import com.isuru.helper.SoundHelper;
-import com.isuru.model.Bird;
-import com.isuru.model.Chicken;
-import com.isuru.model.Duck;
-import com.isuru.model.Parrot;
+import com.isuru.model.*;
+import com.isuru.util.Constant;
 import com.isuru.util.SoundEnum;
 import org.junit.Test;
 
@@ -44,5 +42,68 @@ public class SolutionTest {
         soundHelper.setSound(SoundEnum.DUCK);
         String parrot4Output = new Parrot(soundHelper).sing();
         assertEquals(SoundEnum.DUCK.getSound(), parrot4Output);
+    }
+
+    @Test
+    public void flyTest(){
+        String duckOutput = new Duck().fly();
+        assertEquals(Constant.I_AM_FLYING, duckOutput);
+
+    }
+
+    @Test
+    public void butterflyTest(){
+
+        //Butterfly in catepiller state
+        Butterfly btf = new Butterfly();
+        assertEquals(Constant.I_CANT_FLYING,btf.fly());
+        assertEquals(Constant.I_AM_WALKING,btf.walk());
+        btf.transform();
+        //now Butterfly in butterfly state
+        assertEquals(Constant.I_AM_FLYING,btf.fly());
+        assertEquals(Constant.I_CANT_WALKING,btf.walk());
+    }
+
+    @Test
+    public void animalCountTest(){
+        Animal[] animals = new Animal[]{
+                new Bird(),
+                new Duck(),
+                new Chicken(),
+                new Rooster(),
+                new Parrot(),
+                new Fish(),
+                new Shark(),
+                new Clownfish(),
+                new Dolphin(),
+                new Frog(),
+                new Dog(),
+                new Butterfly(),
+                new Cat()
+        };
+        AnimalCount animalCount = new AnimalCount(animals);
+
+        assertEquals(animalCount.getFlyingCount(), 3);
+        assertEquals(animalCount.getShoutingCount(), 3);
+        assertEquals(animalCount.getSingingCount(), 5);
+        assertEquals(animalCount.getWalkingCount(), 9);
+        assertEquals(animalCount.getSwimmingCount(), 6);
+    }
+
+    @Test
+    public void swimTest(){
+        assertEquals(new Duck().swim(), Constant.I_AM_SWIMMING);
+        assertEquals(new Fish().swim(), Constant.I_AM_SWIMMING);
+        assertEquals(new Frog().swim(), Constant.I_AM_SWIMMING);
+    }
+
+    @Test
+    public void walkTest(){
+        assertEquals(new Duck().walk(), Constant.I_AM_WALKING);
+        assertEquals(new Cat().walk(), Constant.I_AM_WALKING);
+        assertEquals(new Frog().walk(), Constant.I_AM_WALKING);
+        assertEquals(new Dog().walk(), Constant.I_AM_WALKING);
+        assertEquals(new Parrot().walk(), Constant.I_AM_WALKING);
+        assertEquals(new Chicken().walk(), Constant.I_AM_WALKING);
     }
 }

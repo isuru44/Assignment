@@ -4,7 +4,9 @@ import com.isuru.util.Constant;
 
 public class Clownfish extends Fish{
 
-    Clownfish(String bodySize,String bodyColor){
+    public Clownfish(){}
+
+    public Clownfish(String bodySize,String bodyColor){
         super(bodySize,bodyColor);
     }
 
