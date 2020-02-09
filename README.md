@@ -8,3 +8,8 @@ Part 3
 b. Rooster is a Chicken
 c. By using Aggregation concept. We can aggregate Roster object to Chicken object, since Roster is
    a part of the Chicken category.
+
+Question B
+
+Part 3
+b. Extend Dolphin class from Animal class and implement from the Swimmable interface.
