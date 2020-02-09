@@ -3,6 +3,7 @@ package com.isuru.core;
 
 import com.isuru.helper.SoundHelper;
 import com.isuru.model.*;
+import com.isuru.util.LanguageEnum;
 import com.isuru.util.SoundEnum;
 
 public class Solution {
@@ -37,5 +38,11 @@ public class Solution {
         System.out.println("Singing Count : "+animalCount.getSingingCount());
         System.out.println("----End Animal Count----");
 
+        System.out.println("----Start Rooster Translation----");
+        Rooster rooster = new Rooster(LanguageEnum.DANISH);
+        rooster.sing();
+        rooster = new Rooster(LanguageEnum.FRENCH);
+        rooster.sing();
+        System.out.println("----End Rooster Translation----");
     }
 }
